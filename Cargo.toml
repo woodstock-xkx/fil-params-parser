@@ -9,3 +9,6 @@ edition = "2018"
 [dependencies]
 bellperson = "0.5.2"
 ff = "=0.5.0"
+paired = "0.16.0"
+clap = "2"
+anyhow = "1.0.26"
