@@ -1,0 +1,11 @@
+[package]
+name = "fil-params-parser"
+version = "0.1.0"
+authors = ["woodstock-xkx <xkx@trapdoortech.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bellperson = "0.5.2"
+ff = "=0.5.0"
